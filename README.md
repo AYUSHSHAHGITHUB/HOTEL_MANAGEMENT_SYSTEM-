@@ -51,7 +51,7 @@ This project is ideal for small to medium-sized hotels looking for a robust and 
 1. Clone or download the repository:
 
   
-   git clone <repository_url>
+   git clone ( https://github.com/AYUSHSHAHGITHUB/HOTEL_MANAGEMENT_SYSTEM-.git )
    cd hotel-management-system
    
 
